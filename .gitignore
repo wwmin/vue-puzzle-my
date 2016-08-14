@@ -1,2 +1,6 @@
 .idea
 .idea/
+.test
+.test/
+etc/
+node_modules/
